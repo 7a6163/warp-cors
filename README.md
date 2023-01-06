@@ -1,6 +1,6 @@
 # warp-cors
 
-[![ci](https://github.com/Bassetts/warp-cors/workflows/ci/badge.svg)](https://github.com/Bassetts/warp-cors/actions?query=workflow%3Aci)
+[![ci](https://github.com/7a6163/warp-cors/workflows/ci/badge.svg)](https://github.com/7a6163/warp-cors/actions?query=workflow%3Aci)
 [![GitHub](https://img.shields.io/github/license/bassetts/warp-cors?color=blue)](./LICENSE)
 [![Crates.io](https://img.shields.io/crates/v/warp-cors)](https://crates.io/crates/warp-cors)
 
@@ -17,7 +17,7 @@ reponse.
 
 ### Binaries
 
-[Archives of precompiled binaries](https://github.com/Bassetts/warp-cors/releases) 
+[Archives of precompiled binaries](https://github.com/Bassetts/warp-cors/releases)
 are available for Linux, macOS, and Windows.
 
 The Windows binaries require [Microsoft Visual C++ 2015 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=53587)
@@ -34,12 +34,12 @@ $ cargo install warp-cors
 
 ### Docker
 
-Docker images are published in the 
-[bassetts/warp-cors](https://hub.docker.com/repository/docker/bassetts/warp-cors) 
+Docker images are published in the
+[bassetts/warp-cors](https://hub.docker.com/repository/docker/bassetts/warp-cors)
 repository.
 
 ```shell
-$ docker run -dp 3030:3030 bassetts/warp-cors
+$ docker run -dp 3030:3030 7a6163/warp-cors
 ```
 
 ## Usage
